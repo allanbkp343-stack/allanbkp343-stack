@@ -16,4 +16,6 @@ Cybersecurity engineer working across **offensive security**, **purple-team oper
 - **Scope discipline** — authorized testing only; safety gates on every high-risk action
 - **Compounding** — each engagement feeds a technique memory that makes the next one faster
 
+**Public work.** [HTB Machines](https://github.com/allanbkp343-stack/HTB-Machines) — lab walkthroughs and methodology notes.
+
 **Contact.** [github.com/allanbkp343-stack](https://github.com/allanbkp343-stack) · [Portfolio](https://allanbkp343-stack.github.io) — available for authorized security engagements and security automation work.
